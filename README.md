@@ -49,6 +49,6 @@ Today I will be tackling a cryptographic classic - the Caesar Cipher. My job is 
 
 - Start time: 6:30pm
 
-- Finish time: 
+- Finish time: 10:00pm
 
-- Actual time needed to complete:
+- Actual time needed to complete: 3 1/2 hours
